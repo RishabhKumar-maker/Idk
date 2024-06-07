@@ -1,4 +1,4 @@
 # Idk
 My first repo
 <br>
-Author:Rishabh Kumar
+Author:My name is Rishabh Kumar
